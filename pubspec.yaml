@@ -1,0 +1,27 @@
+name: flutter_adaptive_ui_pro
+description: Production-ready adaptive UI framework for Flutter. Write once, automatically render platform-appropriate Material or Cupertino UI.
+version: 1.0.0
+homepage: https://github.com/Kishandobariya76/flutter_adaptive_ui_pro
+repository: https://github.com/Kishandobariya76/flutter_adaptive_ui_pro
+issue_tracker: https://github.com/Kishandobariya76/flutter_adaptive_ui_pro/issues
+topics:
+  - adaptive
+  - cupertino
+  - material
+  - ui
+  - widgets
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.16.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:

@@ -1,0 +1,6 @@
+docs/
+coverage/
+example/build/
+example/.dart_tool/
+.idea/
+*.iml

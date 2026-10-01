@@ -2,6 +2,11 @@
 
 All notable changes to `flutter_adaptive_ui_pro` are documented in this file.
 
+## 1.0.2
+
+- Updated support and donation link to https://kishan-dobariya-pay.netlify.app.
+- Refined documentation and developer profile links.
+
 ## 1.0.1
 
 - Updated README documentation with developer info, support channels, and badges.

@@ -1,10 +1,10 @@
 # flutter_adaptive_ui_pro
 
-[![pub package](https://img.shields.io/badge/pub.dev-v1.0.1-blue.svg)](https://pub.dev/packages/flutter_adaptive_ui_pro)
+[![pub package](https://img.shields.io/badge/pub.dev-v1.0.2-blue.svg)](https://pub.dev/packages/flutter_adaptive_ui_pro)
 [![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.0.0-02569B)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-%3E%3D3.0.0-0175C2)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Kishandobariya76/flutter_adaptive_ui_pro/blob/main/LICENSE)
-[![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Kishandobariya76/flutter_guard@main/support.html)
+[![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://kishan-dobariya-pay.netlify.app)
 
 > **Write once, automatically render platform-appropriate UI.**  
 > A lightweight, zero-dependency, production-grade adaptive UI framework for Flutter. Renders native-fidelity **Material Design 3** on Android, Web, and Desktop, and authentic **Cupertino (Apple HIG)** on iOS.
@@ -112,7 +112,7 @@ Add `flutter_adaptive_ui_pro` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_adaptive_ui_pro: ^1.0.1
+  flutter_adaptive_ui_pro: ^1.0.2
 ```
 
 Run:
@@ -751,8 +751,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 If Flutter Adaptive UI Pro saved you time, you can buy me a chai.
 
-[![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Kishandobariya76/flutter_guard@main/support.html)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Kishandobariya76/flutter_guard@main/support.html)
+[![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://kishan-dobariya-pay.netlify.app)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://kishan-dobariya-pay.netlify.app)
 
 Phones open a UPI app. Desktops show a QR to scan.
 

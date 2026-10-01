@@ -2,6 +2,11 @@
 
 All notable changes to `flutter_adaptive_ui_pro` are documented in this file.
 
+## 1.0.1
+
+- Updated README documentation with developer info, support channels, and badges.
+- Enhanced package metadata and quick start references.
+
 ## 1.0.0 - Initial Production Release
 
 Initial stable release of `flutter_adaptive_ui_pro` — a production-grade, zero-native-channel adaptive UI framework for Flutter.

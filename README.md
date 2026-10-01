@@ -1,10 +1,10 @@
 # flutter_adaptive_ui_pro
 
-[![pub package](https://img.shields.io/badge/pub.dev-v1.0.0-blue.svg)](https://pub.dev/packages/flutter_adaptive_ui_pro)
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
-[![Flutter Platform](https://img.shields.io/badge/platform-flutter%20%7C%20android%20%7C%20ios%20%7C%20web%20%7C%20macos%20%7C%20windows%20%7C%20linux-lightgrey.svg)](https://flutter.dev)
-[![Tests Passing](https://img.shields.io/badge/tests-50%2F50%20passed-brightgreen.svg)]()
-[![Code Style](https://img.shields.io/badge/style-flutter__lints-blue.svg)](https://pub.dev/packages/flutter_lints)
+[![pub package](https://img.shields.io/badge/pub.dev-v1.0.1-blue.svg)](https://pub.dev/packages/flutter_adaptive_ui_pro)
+[![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.0.0-02569B)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-%3E%3D3.0.0-0175C2)](https://dart.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Kishandobariya76/flutter_adaptive_ui_pro/blob/main/LICENSE)
+[![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Kishandobariya76/flutter_guard@main/support.html)
 
 > **Write once, automatically render platform-appropriate UI.**  
 > A lightweight, zero-dependency, production-grade adaptive UI framework for Flutter. Renders native-fidelity **Material Design 3** on Android, Web, and Desktop, and authentic **Cupertino (Apple HIG)** on iOS.
@@ -38,6 +38,8 @@
 - [Accessibility & RTL](#-accessibility--rtl)
 - [Contributing](#-contributing)
 - [License](#-license)
+- [Support](#support)
+- [Developer](#developer)
 
 ---
 
@@ -110,7 +112,7 @@ Add `flutter_adaptive_ui_pro` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_adaptive_ui_pro: ^1.0.0
+  flutter_adaptive_ui_pro: ^1.0.1
 ```
 
 Run:
@@ -742,3 +744,25 @@ Feel free to open an issue or submit a pull request on [GitHub](https://github.c
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Support
+
+If Flutter Adaptive UI Pro saved you time, you can buy me a chai.
+
+[![Buy Me a Chai](https://img.shields.io/badge/Buy%20Me%20a%20Chai-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Kishandobariya76/flutter_guard@main/support.html)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cdn.jsdelivr.net/gh/Kishandobariya76/flutter_guard@main/support.html)
+
+Phones open a UPI app. Desktops show a QR to scan.
+
+---
+
+## Developer
+
+**Kishan Dobariya**
+
+- Phone: +91 90232 56218
+- Email: [flutterdeveloper2206@gmail.com](mailto:flutterdeveloper2206@gmail.com)
+- LinkedIn: [kishan-dobariya-99b005217](https://www.linkedin.com/in/kishan-dobariya-99b005217)
+- GitHub: [Kishandobariya76](https://github.com/Kishandobariya76)
